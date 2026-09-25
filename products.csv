@@ -1,0 +1,501 @@
+product_id,category,subcategory,selling_price,cost_price,product_rating
+P0001,Jewellery,Bracelets,3142,2404,3.1
+P0002,Home & Kitchen,Storage,3419,2080,5.0
+P0003,Women Fashion,Western Wear,367,276,3.1
+P0004,Women Fashion,Western Wear,1183,672,3.1
+P0005,Home & Kitchen,Furniture,1306,840,3.6
+P0006,Women Fashion,Sarees,2766,2163,4.7
+P0007,Women Fashion,Ethnic Wear,305,218,3.5
+P0008,Footwear,Formal Shoes,2904,2291,3.9
+P0009,Electronics,Smart Devices,2277,1341,3.0
+P0010,Footwear,Sneakers,3817,2910,3.2
+P0011,Women Fashion,Sarees,4541,2592,4.2
+P0012,Women Fashion,Ethnic Wear,3172,2191,3.4
+P0013,Footwear,Slippers,1752,1142,4.4
+P0014,Electronics,Lighting,2201,1529,4.6
+P0015,Footwear,Sneakers,696,381,4.7
+P0016,Kids,School Supplies,4598,2880,3.3
+P0017,Footwear,Formal Shoes,1620,1188,3.9
+P0018,Home & Kitchen,Kitchenware,3673,2555,4.9
+P0019,Men Fashion,T-Shirts,4610,3191,4.5
+P0020,Home & Kitchen,Storage,4572,3103,3.2
+P0021,Home & Kitchen,Kitchenware,740,614,4.0
+P0022,Men Fashion,Trousers,987,816,4.8
+P0023,Footwear,Sneakers,554,347,3.9
+P0024,Women Fashion,Western Wear,4173,2600,4.7
+P0025,Footwear,Sandals,1425,989,4.0
+P0026,Women Fashion,Ethnic Wear,448,239,3.2
+P0027,Home & Kitchen,Furniture,4397,2665,3.3
+P0028,Footwear,Formal Shoes,3594,2087,3.1
+P0029,Women Fashion,Kurtis,4168,2410,3.4
+P0030,Home & Kitchen,Storage,730,528,4.8
+P0031,Women Fashion,Western Wear,757,480,4.3
+P0032,Jewellery,Earrings,1818,1018,4.5
+P0033,Footwear,Sneakers,1490,1208,4.2
+P0034,Jewellery,Bracelets,3323,2678,3.8
+P0035,Jewellery,Necklaces,4312,3458,3.4
+P0036,Electronics,Audio,1326,844,4.9
+P0037,Women Fashion,Ethnic Wear,4446,2312,4.0
+P0038,Men Fashion,Ethnic Wear,4110,2209,4.0
+P0039,Home & Kitchen,Furniture,1306,779,5.0
+P0040,Home & Kitchen,Storage,4843,2794,3.8
+P0041,Footwear,Sneakers,1886,1520,4.7
+P0042,Women Fashion,Western Wear,4670,3947,4.7
+P0043,Women Fashion,Western Wear,4502,3538,3.5
+P0044,Beauty,Makeup,4754,3591,3.2
+P0045,Women Fashion,Kurtis,3674,2594,5.0
+P0046,Electronics,Mobile Accessories,2776,2136,3.9
+P0047,Home & Kitchen,Kitchenware,2731,2271,3.0
+P0048,Electronics,Smart Devices,4416,3137,4.0
+P0049,Women Fashion,Western Wear,2228,1235,4.2
+P0050,Kids,School Supplies,1342,748,4.6
+P0051,Women Fashion,Western Wear,4545,3201,4.9
+P0052,Men Fashion,T-Shirts,3942,2431,4.8
+P0053,Electronics,Lighting,3789,3102,4.9
+P0054,Women Fashion,Ethnic Wear,3997,2854,3.1
+P0055,Women Fashion,Ethnic Wear,1946,1434,4.4
+P0056,Women Fashion,Sarees,416,209,3.5
+P0057,Home & Kitchen,Kitchenware,3009,2030,3.4
+P0058,Jewellery,Earrings,3614,2352,4.6
+P0059,Home & Kitchen,Kitchenware,1915,1431,3.8
+P0060,Home & Kitchen,Home Decor,4898,3105,4.8
+P0061,Men Fashion,Trousers,488,411,3.1
+P0062,Women Fashion,Sarees,4896,3596,4.6
+P0063,Women Fashion,Ethnic Wear,3467,2534,3.3
+P0064,Jewellery,Earrings,2942,2418,3.4
+P0065,Women Fashion,Ethnic Wear,808,685,4.0
+P0066,Kids,School Supplies,2552,1453,3.8
+P0067,Women Fashion,Kurtis,734,575,4.0
+P0068,Electronics,Audio,3490,1943,4.9
+P0069,Jewellery,Earrings,3956,2611,4.3
+P0070,Men Fashion,Shirts,955,511,3.6
+P0071,Electronics,Lighting,4048,2907,3.3
+P0072,Men Fashion,Shirts,552,367,3.8
+P0073,Men Fashion,T-Shirts,4090,2945,3.9
+P0074,Women Fashion,Sarees,4529,3339,4.2
+P0075,Footwear,Formal Shoes,504,361,3.5
+P0076,Men Fashion,Trousers,3194,1926,4.5
+P0077,Men Fashion,T-Shirts,3907,3098,3.2
+P0078,Kids,Toys,2413,1672,4.1
+P0079,Men Fashion,Trousers,4347,2919,4.2
+P0080,Beauty,Haircare,1408,1190,3.4
+P0081,Kids,Toys,474,284,4.7
+P0082,Men Fashion,Ethnic Wear,345,236,4.2
+P0083,Men Fashion,Ethnic Wear,3747,2768,4.3
+P0084,Footwear,Sneakers,4924,2678,4.0
+P0085,Men Fashion,Ethnic Wear,2152,1343,4.8
+P0086,Women Fashion,Kurtis,1050,820,4.4
+P0087,Beauty,Skincare,4722,2752,3.8
+P0088,Electronics,Lighting,686,461,3.5
+P0089,Women Fashion,Western Wear,1752,1263,3.1
+P0090,Beauty,Personal Care,1960,1440,3.3
+P0091,Men Fashion,Shirts,3382,2553,5.0
+P0092,Women Fashion,Western Wear,782,628,3.8
+P0093,Home & Kitchen,Kitchenware,4910,3130,4.8
+P0094,Men Fashion,Shirts,4509,3370,3.3
+P0095,Home & Kitchen,Storage,4804,3633,3.9
+P0096,Home & Kitchen,Kitchenware,709,429,4.9
+P0097,Women Fashion,Kurtis,4320,3624,3.2
+P0098,Men Fashion,Shirts,4012,3221,4.2
+P0099,Women Fashion,Kurtis,2439,1467,4.8
+P0100,Women Fashion,Western Wear,2349,1730,4.9
+P0101,Home & Kitchen,Kitchenware,3401,2555,4.7
+P0102,Electronics,Lighting,541,352,4.7
+P0103,Women Fashion,Sarees,1622,1301,4.3
+P0104,Home & Kitchen,Home Decor,4066,3015,3.4
+P0105,Kids,Toys,4594,3355,4.5
+P0106,Women Fashion,Ethnic Wear,344,199,5.0
+P0107,Home & Kitchen,Storage,3016,1939,4.1
+P0108,Electronics,Audio,4756,3100,3.5
+P0109,Women Fashion,Kurtis,1114,843,4.1
+P0110,Footwear,Sandals,2110,1512,4.4
+P0111,Kids,Kids Clothing,3900,2067,3.4
+P0112,Women Fashion,Sarees,1538,935,4.4
+P0113,Footwear,Sneakers,2445,1627,4.2
+P0114,Beauty,Skincare,4116,3119,4.2
+P0115,Women Fashion,Sarees,3150,2395,3.6
+P0116,Home & Kitchen,Furniture,696,467,3.3
+P0117,Women Fashion,Kurtis,3147,1702,4.2
+P0118,Home & Kitchen,Furniture,989,596,4.2
+P0119,Women Fashion,Kurtis,4399,2592,3.7
+P0120,Electronics,Mobile Accessories,208,161,3.6
+P0121,Beauty,Skincare,3297,1856,3.7
+P0122,Beauty,Haircare,3015,1998,4.0
+P0123,Women Fashion,Western Wear,525,386,4.9
+P0124,Men Fashion,Ethnic Wear,3765,3154,4.5
+P0125,Women Fashion,Kurtis,1081,919,4.7
+P0126,Electronics,Lighting,1870,1559,4.0
+P0127,Women Fashion,Western Wear,936,703,4.1
+P0128,Home & Kitchen,Home Decor,2373,1806,3.4
+P0129,Men Fashion,Ethnic Wear,1122,859,4.4
+P0130,Home & Kitchen,Storage,4465,3581,3.8
+P0131,Home & Kitchen,Kitchenware,4681,3900,4.5
+P0132,Beauty,Personal Care,3023,1983,3.8
+P0133,Electronics,Mobile Accessories,1352,873,3.2
+P0134,Beauty,Personal Care,2269,1500,3.3
+P0135,Footwear,Sandals,4799,3508,4.6
+P0136,Electronics,Audio,1119,863,3.5
+P0137,Home & Kitchen,Home Decor,3681,2962,3.5
+P0138,Jewellery,Necklaces,1642,1083,4.9
+P0139,Footwear,Slippers,4706,2952,4.3
+P0140,Home & Kitchen,Kitchenware,3000,2533,3.2
+P0141,Women Fashion,Western Wear,1974,1147,3.3
+P0142,Home & Kitchen,Furniture,227,131,3.5
+P0143,Men Fashion,Ethnic Wear,2491,1869,4.2
+P0144,Home & Kitchen,Kitchenware,3902,2196,4.5
+P0145,Home & Kitchen,Kitchenware,1024,655,3.5
+P0146,Home & Kitchen,Storage,3940,2373,4.7
+P0147,Electronics,Audio,337,188,3.2
+P0148,Electronics,Smart Devices,4651,3269,3.4
+P0149,Women Fashion,Western Wear,2458,1550,4.9
+P0150,Women Fashion,Ethnic Wear,1361,901,3.3
+P0151,Home & Kitchen,Storage,3638,2068,4.8
+P0152,Beauty,Skincare,2732,2100,4.4
+P0153,Electronics,Audio,1558,951,3.1
+P0154,Women Fashion,Ethnic Wear,2424,1503,4.0
+P0155,Women Fashion,Sarees,2759,1623,4.0
+P0156,Home & Kitchen,Furniture,3871,2524,4.9
+P0157,Home & Kitchen,Storage,2359,1562,3.8
+P0158,Men Fashion,Trousers,481,330,3.9
+P0159,Beauty,Skincare,1338,1122,3.2
+P0160,Women Fashion,Sarees,1996,1630,4.3
+P0161,Women Fashion,Ethnic Wear,4335,3092,3.4
+P0162,Women Fashion,Kurtis,3178,1632,3.2
+P0163,Home & Kitchen,Furniture,1389,992,5.0
+P0164,Footwear,Slippers,1443,767,3.5
+P0165,Men Fashion,Shirts,4607,3449,3.3
+P0166,Women Fashion,Sarees,2129,1355,4.4
+P0167,Electronics,Lighting,2717,2155,4.6
+P0168,Footwear,Sneakers,246,204,3.1
+P0169,Women Fashion,Sarees,332,214,3.2
+P0170,Beauty,Haircare,3245,2146,3.2
+P0171,Women Fashion,Kurtis,2563,1811,3.1
+P0172,Women Fashion,Sarees,3708,2110,4.3
+P0173,Home & Kitchen,Kitchenware,3705,3055,4.2
+P0174,Kids,Baby Products,2332,1519,4.3
+P0175,Electronics,Audio,4293,2397,4.0
+P0176,Kids,School Supplies,2736,2098,4.6
+P0177,Beauty,Skincare,2670,1540,4.1
+P0178,Jewellery,Necklaces,2633,1449,4.8
+P0179,Women Fashion,Kurtis,4534,3160,4.0
+P0180,Women Fashion,Ethnic Wear,3721,2735,4.6
+P0181,Electronics,Smart Devices,2504,1751,3.8
+P0182,Beauty,Makeup,4338,3166,3.9
+P0183,Men Fashion,Trousers,2009,1086,4.7
+P0184,Electronics,Audio,862,575,3.2
+P0185,Men Fashion,Shirts,3253,2033,4.1
+P0186,Home & Kitchen,Storage,4399,3698,4.5
+P0187,Men Fashion,Ethnic Wear,3691,1910,4.5
+P0188,Footwear,Sandals,1152,696,4.2
+P0189,Men Fashion,Shirts,1872,1553,3.9
+P0190,Home & Kitchen,Home Decor,1541,1301,3.5
+P0191,Women Fashion,Sarees,3690,2910,4.8
+P0192,Footwear,Slippers,2941,1549,3.7
+P0193,Home & Kitchen,Furniture,2303,1604,4.6
+P0194,Women Fashion,Sarees,438,280,3.1
+P0195,Women Fashion,Kurtis,2823,2208,3.5
+P0196,Men Fashion,Shirts,3248,1687,3.7
+P0197,Home & Kitchen,Kitchenware,2308,1313,4.3
+P0198,Home & Kitchen,Furniture,4446,2984,3.6
+P0199,Men Fashion,Trousers,4424,2456,3.1
+P0200,Electronics,Mobile Accessories,1662,1234,3.3
+P0201,Jewellery,Earrings,598,471,3.5
+P0202,Women Fashion,Kurtis,2920,2180,3.4
+P0203,Beauty,Makeup,2136,1397,3.4
+P0204,Home & Kitchen,Storage,4835,3904,4.5
+P0205,Home & Kitchen,Storage,380,208,3.8
+P0206,Women Fashion,Western Wear,1273,752,3.8
+P0207,Women Fashion,Kurtis,2772,1861,4.9
+P0208,Women Fashion,Sarees,2596,1354,3.9
+P0209,Home & Kitchen,Storage,1280,683,4.9
+P0210,Home & Kitchen,Home Decor,617,394,3.6
+P0211,Women Fashion,Kurtis,1359,1128,3.8
+P0212,Men Fashion,Trousers,838,685,3.8
+P0213,Men Fashion,T-Shirts,2283,1514,4.1
+P0214,Footwear,Sneakers,4788,2632,4.2
+P0215,Women Fashion,Ethnic Wear,557,313,3.5
+P0216,Home & Kitchen,Home Decor,2002,1266,4.6
+P0217,Footwear,Sandals,737,423,4.0
+P0218,Footwear,Formal Shoes,4638,2454,3.0
+P0219,Home & Kitchen,Kitchenware,2417,1778,4.2
+P0220,Men Fashion,Trousers,1912,1345,4.6
+P0221,Footwear,Sandals,1064,640,3.5
+P0222,Electronics,Mobile Accessories,2266,1751,3.1
+P0223,Electronics,Smart Devices,2549,1967,4.6
+P0224,Women Fashion,Sarees,974,654,5.0
+P0225,Women Fashion,Ethnic Wear,3467,1851,3.2
+P0226,Electronics,Audio,4870,4001,4.9
+P0227,Jewellery,Earrings,3826,2808,3.7
+P0228,Footwear,Slippers,1234,724,4.9
+P0229,Footwear,Slippers,559,399,4.3
+P0230,Home & Kitchen,Storage,3018,1937,4.8
+P0231,Men Fashion,Ethnic Wear,494,357,4.6
+P0232,Electronics,Mobile Accessories,1625,1082,3.1
+P0233,Electronics,Mobile Accessories,3708,2484,3.1
+P0234,Electronics,Smart Devices,3015,2284,4.1
+P0235,Jewellery,Bracelets,3064,2190,3.3
+P0236,Men Fashion,Trousers,891,470,3.9
+P0237,Women Fashion,Ethnic Wear,4794,2507,4.9
+P0238,Jewellery,Rings,1266,768,3.6
+P0239,Women Fashion,Kurtis,1331,866,4.0
+P0240,Electronics,Audio,1320,787,3.8
+P0241,Jewellery,Necklaces,1440,1048,4.3
+P0242,Men Fashion,Trousers,1145,651,3.4
+P0243,Footwear,Formal Shoes,3346,2498,3.5
+P0244,Men Fashion,Ethnic Wear,1814,1398,4.7
+P0245,Footwear,Sandals,4858,2640,4.6
+P0246,Women Fashion,Western Wear,261,190,4.6
+P0247,Home & Kitchen,Kitchenware,592,495,4.5
+P0248,Electronics,Smart Devices,1725,979,3.9
+P0249,Home & Kitchen,Storage,1700,1391,4.5
+P0250,Electronics,Audio,718,511,3.8
+P0251,Jewellery,Rings,587,415,3.2
+P0252,Electronics,Lighting,786,407,3.8
+P0253,Kids,Kids Clothing,3696,2816,3.3
+P0254,Beauty,Personal Care,3260,2176,3.8
+P0255,Home & Kitchen,Furniture,4930,3709,3.6
+P0256,Men Fashion,Shirts,2770,2170,4.2
+P0257,Kids,Kids Clothing,478,327,3.7
+P0258,Women Fashion,Kurtis,3315,1963,4.4
+P0259,Men Fashion,T-Shirts,3671,2017,4.0
+P0260,Men Fashion,T-Shirts,2183,1214,4.8
+P0261,Beauty,Makeup,2480,1992,3.2
+P0262,Jewellery,Rings,4480,2434,4.4
+P0263,Men Fashion,T-Shirts,1003,637,4.3
+P0264,Jewellery,Bracelets,273,168,4.9
+P0265,Beauty,Skincare,3184,2556,3.7
+P0266,Footwear,Sandals,908,606,3.6
+P0267,Home & Kitchen,Kitchenware,3861,3277,3.3
+P0268,Men Fashion,Ethnic Wear,4829,3660,3.5
+P0269,Beauty,Makeup,1629,1300,4.0
+P0270,Beauty,Haircare,845,452,4.7
+P0271,Men Fashion,Shirts,2237,1317,3.6
+P0272,Men Fashion,T-Shirts,4332,2371,3.3
+P0273,Women Fashion,Western Wear,4137,2740,3.5
+P0274,Men Fashion,Ethnic Wear,2414,1814,3.2
+P0275,Home & Kitchen,Storage,3555,1988,4.9
+P0276,Beauty,Personal Care,301,164,4.7
+P0277,Electronics,Mobile Accessories,343,245,3.6
+P0278,Kids,Toys,953,553,3.5
+P0279,Beauty,Haircare,4256,2842,4.8
+P0280,Beauty,Haircare,4660,2413,3.0
+P0281,Women Fashion,Western Wear,2029,1498,4.2
+P0282,Beauty,Personal Care,3908,2694,4.8
+P0283,Electronics,Mobile Accessories,281,204,4.0
+P0284,Women Fashion,Sarees,1510,901,3.0
+P0285,Women Fashion,Kurtis,3538,2114,3.4
+P0286,Beauty,Makeup,3893,3038,4.8
+P0287,Footwear,Sneakers,4130,3104,3.0
+P0288,Home & Kitchen,Kitchenware,3646,2563,3.8
+P0289,Kids,Kids Clothing,3867,2784,4.6
+P0290,Jewellery,Bracelets,1814,967,4.7
+P0291,Women Fashion,Ethnic Wear,4445,3554,4.0
+P0292,Women Fashion,Sarees,3002,2310,3.5
+P0293,Beauty,Makeup,2261,1598,4.2
+P0294,Home & Kitchen,Furniture,4395,3611,3.5
+P0295,Home & Kitchen,Storage,978,547,3.5
+P0296,Women Fashion,Ethnic Wear,1257,931,4.6
+P0297,Women Fashion,Sarees,2597,2174,3.3
+P0298,Women Fashion,Ethnic Wear,3203,1949,3.0
+P0299,Footwear,Sandals,2529,1278,3.7
+P0300,Jewellery,Rings,4931,3734,4.0
+P0301,Women Fashion,Sarees,1958,984,4.4
+P0302,Women Fashion,Ethnic Wear,4819,3881,4.6
+P0303,Women Fashion,Ethnic Wear,4459,2317,4.3
+P0304,Jewellery,Rings,626,456,4.3
+P0305,Kids,Toys,4075,2575,4.3
+P0306,Men Fashion,Ethnic Wear,2689,1536,3.5
+P0307,Men Fashion,Ethnic Wear,2315,1885,3.8
+P0308,Men Fashion,Trousers,2520,1918,4.2
+P0309,Home & Kitchen,Furniture,758,469,3.1
+P0310,Electronics,Lighting,1584,950,3.6
+P0311,Home & Kitchen,Storage,2816,2133,3.8
+P0312,Kids,Toys,2153,1707,4.1
+P0313,Women Fashion,Kurtis,788,591,4.0
+P0314,Footwear,Slippers,697,505,4.4
+P0315,Men Fashion,Trousers,3021,1751,3.9
+P0316,Beauty,Personal Care,1728,1380,4.8
+P0317,Electronics,Audio,1837,1400,3.8
+P0318,Jewellery,Necklaces,1331,906,4.1
+P0319,Electronics,Lighting,4682,3179,3.0
+P0320,Footwear,Sneakers,614,429,3.6
+P0321,Electronics,Lighting,1790,1414,4.7
+P0322,Men Fashion,Shirts,4606,3500,3.7
+P0323,Electronics,Lighting,4082,3264,3.5
+P0324,Footwear,Slippers,1806,1224,4.1
+P0325,Home & Kitchen,Furniture,3923,2819,3.2
+P0326,Home & Kitchen,Storage,1914,1529,4.1
+P0327,Electronics,Mobile Accessories,401,233,3.6
+P0328,Footwear,Sneakers,4053,2656,3.8
+P0329,Men Fashion,Trousers,4158,2982,4.6
+P0330,Footwear,Slippers,308,253,4.3
+P0331,Footwear,Sandals,4376,2212,3.9
+P0332,Women Fashion,Kurtis,967,555,4.2
+P0333,Electronics,Lighting,337,196,4.5
+P0334,Women Fashion,Western Wear,419,257,4.5
+P0335,Women Fashion,Sarees,1059,634,3.4
+P0336,Home & Kitchen,Home Decor,4126,2915,3.6
+P0337,Jewellery,Bracelets,2586,2095,3.7
+P0338,Women Fashion,Sarees,2724,1969,3.4
+P0339,Footwear,Sneakers,1644,961,3.0
+P0340,Home & Kitchen,Storage,1808,1451,3.3
+P0341,Footwear,Formal Shoes,397,286,4.6
+P0342,Footwear,Sandals,3062,1766,4.1
+P0343,Jewellery,Necklaces,1359,852,3.7
+P0344,Electronics,Smart Devices,1568,1218,4.2
+P0345,Footwear,Formal Shoes,3770,2860,4.5
+P0346,Women Fashion,Sarees,2421,1699,3.7
+P0347,Men Fashion,Ethnic Wear,687,378,3.9
+P0348,Women Fashion,Kurtis,3739,2921,3.1
+P0349,Electronics,Smart Devices,3066,1863,4.2
+P0350,Women Fashion,Kurtis,2626,2022,3.7
+P0351,Women Fashion,Western Wear,2076,1509,3.9
+P0352,Jewellery,Rings,4736,2806,3.8
+P0353,Electronics,Audio,1063,611,4.3
+P0354,Jewellery,Rings,2379,1299,4.1
+P0355,Women Fashion,Kurtis,3227,1887,3.8
+P0356,Beauty,Personal Care,3297,1831,3.0
+P0357,Men Fashion,T-Shirts,3527,2525,4.2
+P0358,Women Fashion,Western Wear,3833,2720,4.8
+P0359,Men Fashion,Ethnic Wear,854,602,4.5
+P0360,Beauty,Personal Care,1578,1144,5.0
+P0361,Women Fashion,Western Wear,434,341,3.3
+P0362,Home & Kitchen,Kitchenware,1187,973,3.4
+P0363,Beauty,Makeup,1581,918,4.1
+P0364,Women Fashion,Kurtis,1013,715,3.5
+P0365,Electronics,Smart Devices,3165,1669,3.1
+P0366,Electronics,Audio,1888,1023,3.8
+P0367,Footwear,Formal Shoes,3999,2915,3.6
+P0368,Beauty,Personal Care,2685,1800,3.5
+P0369,Kids,School Supplies,1864,1427,4.9
+P0370,Jewellery,Rings,2834,1839,3.5
+P0371,Home & Kitchen,Kitchenware,4185,2279,3.3
+P0372,Beauty,Makeup,2022,1628,3.3
+P0373,Women Fashion,Western Wear,4287,2268,4.6
+P0374,Electronics,Smart Devices,809,458,4.4
+P0375,Home & Kitchen,Home Decor,1534,916,3.3
+P0376,Jewellery,Earrings,4067,3450,3.4
+P0377,Home & Kitchen,Storage,4524,2922,4.5
+P0378,Kids,Toys,3891,2629,3.5
+P0379,Footwear,Sneakers,4634,3565,5.0
+P0380,Kids,School Supplies,3765,2721,4.1
+P0381,Men Fashion,Shirts,2410,1915,3.4
+P0382,Women Fashion,Western Wear,2362,1583,4.7
+P0383,Footwear,Sandals,269,226,3.6
+P0384,Footwear,Sandals,1948,1517,3.6
+P0385,Women Fashion,Kurtis,540,346,3.7
+P0386,Electronics,Mobile Accessories,4882,3092,4.5
+P0387,Home & Kitchen,Furniture,3025,2497,3.3
+P0388,Women Fashion,Sarees,4030,2980,3.8
+P0389,Home & Kitchen,Home Decor,2578,1850,3.1
+P0390,Jewellery,Bracelets,4068,3113,4.7
+P0391,Home & Kitchen,Furniture,4401,3064,3.7
+P0392,Footwear,Sneakers,3472,1929,3.5
+P0393,Women Fashion,Sarees,2638,1614,4.2
+P0394,Electronics,Smart Devices,4524,3145,4.4
+P0395,Jewellery,Bracelets,2266,1147,4.6
+P0396,Home & Kitchen,Home Decor,3738,2441,3.7
+P0397,Men Fashion,Shirts,4946,3781,4.6
+P0398,Home & Kitchen,Storage,670,374,3.9
+P0399,Jewellery,Bracelets,3964,2072,3.2
+P0400,Women Fashion,Ethnic Wear,4368,3462,4.7
+P0401,Beauty,Makeup,852,610,4.1
+P0402,Women Fashion,Kurtis,660,371,4.2
+P0403,Home & Kitchen,Kitchenware,1372,1073,4.9
+P0404,Home & Kitchen,Storage,1866,1363,4.1
+P0405,Jewellery,Necklaces,3944,2433,3.0
+P0406,Beauty,Skincare,3520,2223,4.7
+P0407,Home & Kitchen,Home Decor,838,465,3.6
+P0408,Jewellery,Earrings,4568,3619,4.0
+P0409,Men Fashion,Trousers,680,461,3.4
+P0410,Electronics,Audio,280,195,3.6
+P0411,Electronics,Mobile Accessories,3502,2834,4.4
+P0412,Men Fashion,Shirts,4325,2186,3.9
+P0413,Women Fashion,Western Wear,2992,1566,4.3
+P0414,Home & Kitchen,Home Decor,1306,727,4.6
+P0415,Men Fashion,Shirts,3984,2034,3.7
+P0416,Men Fashion,Shirts,449,328,4.1
+P0417,Kids,Kids Clothing,2633,1901,4.6
+P0418,Home & Kitchen,Kitchenware,1819,1044,4.4
+P0419,Footwear,Sandals,1917,1059,4.1
+P0420,Women Fashion,Ethnic Wear,464,256,3.8
+P0421,Jewellery,Necklaces,220,183,3.8
+P0422,Footwear,Sneakers,2322,1725,3.9
+P0423,Footwear,Sandals,1709,1205,3.7
+P0424,Beauty,Makeup,4051,2483,4.4
+P0425,Beauty,Haircare,4974,3241,3.3
+P0426,Home & Kitchen,Storage,3137,1667,4.9
+P0427,Footwear,Sneakers,3621,3076,4.6
+P0428,Footwear,Formal Shoes,438,335,3.6
+P0429,Women Fashion,Western Wear,249,179,3.1
+P0430,Jewellery,Necklaces,3206,2263,4.4
+P0431,Jewellery,Earrings,674,456,4.5
+P0432,Home & Kitchen,Furniture,2203,1300,4.9
+P0433,Women Fashion,Western Wear,355,206,3.5
+P0434,Footwear,Sneakers,4960,3434,3.2
+P0435,Home & Kitchen,Furniture,2982,1564,4.8
+P0436,Footwear,Sneakers,2218,1167,3.5
+P0437,Footwear,Formal Shoes,1885,1312,4.4
+P0438,Women Fashion,Western Wear,4369,3591,3.1
+P0439,Home & Kitchen,Home Decor,4057,3327,4.5
+P0440,Beauty,Makeup,2613,1316,3.3
+P0441,Jewellery,Bracelets,3002,1614,4.4
+P0442,Men Fashion,Trousers,3448,2428,4.1
+P0443,Women Fashion,Western Wear,2354,1876,4.9
+P0444,Jewellery,Rings,2025,1689,3.1
+P0445,Women Fashion,Ethnic Wear,3956,3170,3.6
+P0446,Electronics,Lighting,291,215,3.1
+P0447,Men Fashion,Ethnic Wear,4475,2552,4.8
+P0448,Home & Kitchen,Furniture,869,457,4.2
+P0449,Home & Kitchen,Furniture,2342,1210,4.1
+P0450,Beauty,Personal Care,430,307,3.3
+P0451,Kids,School Supplies,4188,2147,4.0
+P0452,Women Fashion,Ethnic Wear,1801,1366,3.8
+P0453,Beauty,Skincare,3150,2360,3.6
+P0454,Beauty,Personal Care,1971,1040,4.5
+P0455,Home & Kitchen,Home Decor,2265,1851,3.1
+P0456,Beauty,Makeup,1509,1030,4.3
+P0457,Women Fashion,Western Wear,357,292,4.6
+P0458,Jewellery,Necklaces,3977,3243,4.8
+P0459,Beauty,Makeup,1785,1016,4.5
+P0460,Men Fashion,T-Shirts,576,365,3.6
+P0461,Beauty,Haircare,3494,1912,4.2
+P0462,Women Fashion,Western Wear,912,703,3.3
+P0463,Women Fashion,Ethnic Wear,4386,2967,3.2
+P0464,Women Fashion,Kurtis,2422,1998,4.3
+P0465,Women Fashion,Ethnic Wear,4270,2446,4.7
+P0466,Women Fashion,Western Wear,2981,2209,3.1
+P0467,Beauty,Personal Care,936,792,3.2
+P0468,Home & Kitchen,Furniture,2699,1978,4.1
+P0469,Home & Kitchen,Home Decor,3345,1753,3.4
+P0470,Women Fashion,Western Wear,2062,1456,4.2
+P0471,Jewellery,Necklaces,690,388,3.4
+P0472,Footwear,Formal Shoes,3203,1636,3.2
+P0473,Kids,School Supplies,3812,2353,4.1
+P0474,Men Fashion,Ethnic Wear,1728,1025,4.7
+P0475,Home & Kitchen,Furniture,1144,888,4.4
+P0476,Women Fashion,Kurtis,3839,2422,4.6
+P0477,Footwear,Slippers,900,681,3.5
+P0478,Women Fashion,Western Wear,4155,2101,4.8
+P0479,Men Fashion,T-Shirts,2683,1355,3.8
+P0480,Home & Kitchen,Kitchenware,2954,1507,4.7
+P0481,Home & Kitchen,Home Decor,3467,2000,3.9
+P0482,Home & Kitchen,Home Decor,3301,2083,3.5
+P0483,Women Fashion,Sarees,2066,1473,3.5
+P0484,Beauty,Haircare,4324,3654,4.1
+P0485,Jewellery,Earrings,4004,2499,3.2
+P0486,Jewellery,Rings,3232,1679,4.9
+P0487,Home & Kitchen,Furniture,4978,2829,3.5
+P0488,Home & Kitchen,Home Decor,588,479,3.7
+P0489,Women Fashion,Ethnic Wear,1442,1074,3.5
+P0490,Women Fashion,Sarees,3546,2754,3.0
+P0491,Men Fashion,Ethnic Wear,210,114,4.4
+P0492,Beauty,Haircare,1715,939,4.2
+P0493,Electronics,Audio,1819,981,4.6
+P0494,Beauty,Makeup,1956,1565,3.1
+P0495,Women Fashion,Western Wear,247,142,4.9
+P0496,Beauty,Haircare,1914,1388,3.7
+P0497,Women Fashion,Kurtis,459,312,4.8
+P0498,Electronics,Smart Devices,518,358,3.2
+P0499,Women Fashion,Ethnic Wear,4480,2546,4.5
+P0500,Beauty,Personal Care,2475,1788,4.2
